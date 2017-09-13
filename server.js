@@ -4,6 +4,9 @@ const request = require('request');
 const cors = require('cors');
 const joeInfo = require('./joeInfo.json');
 const app = express();
+
+app.set('port', (process.env.PORT || 3000));
+
 // const mailjet = require('node-mailjet')
 // 	.connect('a62b98ba9d1b79455f9f92ef61b8eed2', 'ea86a27e20e56f8a9cf4f79a8c08f6e0')
 
@@ -50,7 +53,7 @@ app.get('/scrape', function (req, res) {
 	});
 });
 
-app.listen(3000, function () {
+app.listen(app.get('port'), function () {
 	console.log('Example app listening on port 3000!')
 });
 

@@ -1,0 +1,236 @@
+{
+  "experience": [
+    {
+      "company": "Marvel Entertainment",
+      "title": "Web Interface Developer",
+      "timeFrame": "Jun 2015 - Present",
+      "description": "• Head of Front End development for custom Content Management System built from scratch on React/Redux • Spearheaded development on Marvel’s first React project which utilized highly structured components for optimal reusability • Responsible for creating a structured intern program that taught fundamentals of web development, and introduced assorted ongoing projects • Managed interns and mentored them through code review sessions in order to assure that they produced quality work • Created thorough documentation for on-boarding processes, all React projects, and within each codebase • Primary stakeholder in supporting and developing the internal digital comic authoring tool, built on Angular • Designed/developed core components of read.marvel.com, Marvel Unlimited's web interface, written in Backbone • Built assorted different static and dynamic pages for the Marvel.com website, utilizing jQuery, Backbone, and other custom-built internal libraries"
+    },
+    {
+      "company": "Rutgers University",
+      "title": "Full Stack Web Development Instructor",
+      "timeFrame": "Feb 2017 - Present",
+      "description": "• Taught a six-month long intensive full stack bootcamp to students with no prior coding experience • Lesson plans covered a multitude of javascript-centric topics which spanned the entire stack • Topics included: HTML5, CSS, Javascript, jQuery, Git, Node, Express, MySQL, MongoDB, React, Computer Science, Deployment, and more • Provided ongoing assistance to students as they progressed through the course, both remotely and inside the classroom • Served as a mentor and senior developer to students, course correcting and explaining concepts as they learned • Rewrote the entire React portion of the curriculum, switching from deprecated ES5 syntax to more future-friendly ES6 code Contributed to a nationwide shared lesson plan by submitting merge requests to shared repository"
+    },
+    {
+      "company": "ScrollMotion",
+      "title": "Front End Developer",
+      "timeFrame": "June 2012 - Jun 2015",
+      "description": "• Built highly interactive iPad applications from scratch for a variety of enterprise customers • Utilized high-level JavaScript to marry complex backend structures with pixel-perfect front end design • Spearheaded development that brought fully functional charting solution to the platform, allowing the company to reach new customers and adding value and depth to the product • Worked with assorted APIs to incorporate external data and advanced functionality into apps • Developed a suite of python scripts to help workflow and reduce latency in the build process"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Custom Content Management System for Marvel Cinematic Universe",
+      "company": "Marvel Entertainment",
+      "description": "• From-scratch React project, allowed for autosaving and utilized Redux-Form to track changes from within the view • Architected project in a way that allowed for maximum extensibility for future development, drastically reducing development time in future phases • Wrote 25+ custom configurable components to properly model complex data structures stored in graph database • Implemented complex state management utilizing asynchronous Redux actions and reducers • Took full advantage of ES6/ES7 syntax, embracing component classes, spread operators, arrow functions, etc. • Extended several open source component libraries, adapting existing structures to meet the requirements laid out by product stakeholders"
+    },
+    {
+      "title": "Internal Tool: Code Generating/ Administrative Tagging System",
+      "company": "Marvel Entertainment",
+      "description": "• Marvel's first React project, allows employees to create comic promo codes, administer website ad tags, etc. • Shepherded project through three drastically different phases ( jQuery to ES5-style ReactJS, to ES6 [class based] ReactJS) • Created configuration-based architecture, which allows developers to add new pages and forms with simple JSON structures • Learned Webpack to provide deeper understanding into build complex chain processes (plugins, dev-server with proxy, loaders) • Utilized React-Router to provide consistent user-facing routing across the application • Implemented Block Element Modifier (BEM) Sass styling throughout all views and components"
+    },
+    {
+      "title": "Marvel Insider Program Stylistic Overhaul",
+      "company": "Marvel Entertainment",
+      "description": "• Interfaced with third party vendor to implement user-facing points economy that allowed users redeem points for prizes • Primarily tasked with drastic re-skinning of vendor's unstyled embedded dashboard widgets • Could only style widgets utilizing plain CSS and pseudo selectors (content locked in iframe) • Drastic creativity was necessary to match designs to locked HTML structure in embedded widgets"
+    },
+    {
+      "title": "www.RateThatTruck.com",
+      "company": "Personal",
+      "description": "• Turned personal passion into a prominent food truck blog that brings ratings and reviews to food enthusiasts • Version 1.0 was built using JavaScript, and PHP, heavily customizing a Wordpress theme • Utilized Wordpress, JavaScript, and PHP to create a cohesive site that is up to modern web standards• Version 2.0 added authentication, user interaction components, and was built from scratch on MERN stack • Utilizes headless Wordpress API to maintain blog functionality and conform to standard RESTful practices • Learned sketch to create wireframes for redesign, followed self-contained agile methodology to implement changes"
+    },
+    {
+      "title": "JoeSangiorgio.com",
+      "company": "Personal",
+      "description": "• Portfolio site built from scratch utilizing VueJS • Aggregates all professional/personal information and serves and entry point for hiring managers • Driven by publicly available API hosted on Google Cloud Engine • Uses many VueJS addon libraries, such as Vuetify for UI components, and vue-router for native browser routing"
+    }
+  ],
+  "skills": [
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "ReactJS",
+    "jQuery",
+    "AngularJS",
+    "Vue.js",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "Git",
+    "JSON",
+    "Webpack",
+    "Backbone.js",
+    "GruntJS",
+    "Gulp.js",
+    "Underscore.js",
+    "Vagrant (software)",
+    "Web Development",
+    "Teaching",
+    "Mentoring",
+    "Tutoring",
+    "Writing",
+    "User Interface",
+    "XML",
+    "Database",
+    "Python (programming_language)",
+    "SQL",
+    "Mac OS",
+    "Windows",
+    "Linux",
+    "Android (operating_system)",
+    "WordPress",
+    "Java (programming_language)",
+    "Sketch (application)",
+    "Photoshop",
+    "PHP",
+    "c++",
+    "Mobile Applications",
+    "Microsoft Office"
+  ],
+  "references": [
+    {
+      "name": "Hima Unnithan",
+      "title": "Full Stack Developer",
+      "date": "August 16, 2017",
+      "relationship": " Hima reported directly to Joseph",
+      "img": "https://media.licdn.com/mpr/mpr/shrinknp_100_100/AAEAAQAAAAAAAAqmAAAAJDA3MjhlZDI2LTMzNWQtNDFmMy1iODYwLTJmY2MzZTZjZTUyOQ.jpg",
+      "body": "I had the opportunity to attend the Full Stack Development course at Rutgers under Joe’s tutelage. As an instructor, Joe was simply stellar, his knowledge level of all of the front and back end technologies covered were top class. <br/><br/> A Bootcamp, as I understand now, is extremely labor intensive and can be very frustrating. From Day-1 Joe made sure that we as students understood the basics of each technology and prompted us to ask questions to improve our understanding of the topic covered. I, being a back end coder for four years had trouble initially with a few front end topics, Joe made sure he was available at all times to answer any questions and mentor and guide me to become a full stack developer.<br/><br/>Being a TA now for the same course, I understand the difficulties of teaching an intensive boot camp course. For such a course, the effort has to come from the top, the level of effort Joe put in as an instructor inspired a lot of us to grind through. All throughout the course, he would listen patiently to our questions and not just answer us, but try to guide us step by step to reach the answer. He empathized with students when complex topics were taught and provided us with all the required resources which allowed us to be successful. Joe has a great sense of humor, which helped a lot during frustrating times, and I greatly admire Joe’s ability to command a room and get people on board with understanding complex topics.<br/><br/> To me Joe is a great mentor, guide and teacher, I considered myself extremely lucky that I was guided by Joe towards my journey to be a Full Stack Developer. Any employer would be lucky to have an employee like Joe and any student would be blessed to have a tutor like him. To quote Albert Einstein, “It is the supreme art of the teacher to awaken joy in creative expression and knowledge”, and Joe succeeded in that. Thanks Again Joe, wish you all the success in your future endeavors."
+    },
+    {
+      "name": "Dave Bokil",
+      "title": "Full Stack Web Developer/Experienced Manager",
+      "date": "August 3, 2017",
+      "relationship": "Dave reported directly to Joseph",
+      "img": "https://media.licdn.com/mpr/mpr/shrinknp_100_100/AAEAAQAAAAAAAAyXAAAAJDk4NTlmODQ2LTk5YTgtNGMwOS1iMzA2LTUxOWM5ZGNlZGM1ZQ.jpg",
+      "body": "Quite simply, Joe is an all-star instructor with a natural ability to lead. I was fortunate to be a student of his at Rutgers University’s Coding Bootcamp. Thanks to his enthusiasm and dedication, I was able to quickly comprehend complex JavaScript topics. Speaking as an experienced adjunct college professor, it was inspiring for me to witness Joe in action. He constantly found ways to capture the classroom’s attention with ease. Moreover, I respect that his presentation of the material went beyond textbook learning: he is an accomplished developer, and was eager to bring his own invaluable, practical experience to instruction in the classroom.<br/><br/>In addition to being an excellent teacher, Joe has a natural ability to lead and mentor teams. I witnessed this firsthand as he effortlessly guided class teams in building full stack web applications. His direction and advice was vital to my success in this endeavor, from application conception to polished minimum viable product. He inspired and pushed my team in directions which enabled us to build the most thorough and modern application that we could.<br/><br/> I thoroughly enjoyed being in class with Joe and I’m confident that he would bring the same energy to any position that requires him to lead and motivate a team. I enthusiastically endorse him and recommend you strongly consider him."
+    },
+    {
+      "name": "Diaeddin Motan",
+      "title": "Full Stack Web Developer",
+      "date": "August 2, 2017",
+      "relationship": "Diaeddin reported directly to Joseph",
+      "img": "https://media.licdn.com/mpr/mpr/shrinknp_100_100/AAEAAQAAAAAAAAZ5AAAAJGM4ZDE5NGU4LTY1MzYtNGFlNS1iYzNhLTg0OGU3YmRiNjExOA.jpg",
+      "body": "I had the honor of being Joseph’s student while attending the Rutgers Coding Bootcamp. I think I have never experienced a teacher that is quite as patient and friendly as Joseph. His ability to breakdown difficult concepts and deliver them with enthusiasm is unparalleled.<br/><br/>Joseph has the rare ability to empathize with the learner. As a student, being exposed to new technologies and abstract ideas can become overwhelming. By being able to put himself in their shoes, he can guide them through the journey and anticipate problems and pitfalls that may arise. His method was not only to present information but create a path of discovery enabling the student to fully grasp the concepts being discussed.<br/><br/>His dedication to his craft is remarkable. Aside from possessing a deep knowledge of the technologies, he is able to deliver the material with enthusiasm while constantly improving his delivery methods by assessing the progress and engagement of the class. By delivering content with humor and providing times to reflect upon the journey, he was able to keep the classes’ morale high and focus on point.<br/><br/>At no time during the course did I feel that I was on my own. Whether having trouble with a new library or framework, or simply looking for help with my resume or career advice, Joseph was consistently available to answer questions or provide guidance. <br/><br/>To say that having Joseph as a teacher was a privilege would be an understatement. I entered RCB with basic knowledge of web technologies and have since been skilled as a confident web developer. His dedication, empathy and enthusiasm for his craft and students are evident in everything he does. I credit him in being instrumental in my journey in web development. I cannot recommend someone more highly."
+    },
+    {
+      "name": "Craig Ramey",
+      "title": "Web Developer at UA Builders Group",
+      "date": "July 14, 2017",
+      "relationship": "Craig reported directly to Joseph",
+      "img": "https://media.licdn.com/mpr/mpr/shrinknp_100_100/AAEAAQAAAAAAAAVdAAAAJDVhZjBlMThkLTc5NDQtNGEwMS04ZGE3LWIxZDZlMjI4ZWQ2OQ.jpg",
+      "body": "Joe is an excellent instructor at the Rutgers Coding Bootcamp. His ability to take complex topics and convey them in an easy to consume, and concise manner is very impressive.<br/><br/>Joe has an experienced understanding of Web Development, which was apparent through the myriad of topics we covered in class. His ability and passion is clearly apparent to his colleagues and enrollees. He is able to motivate and challenge our students, and tends to tailor his approach to meet the needs of each one of them. He has the ability to mentor and guide young developers to the right path without providing them with the answer.<br/><br/>He took extra steps outside the classroom to ensure the best experience for the person enrolled in class. When the course culminated with React and Redux, Joe took it upon himself to actually rewrite the curriculum so that the students could have the most up to date educational experience.<br/><br/>After projects, Joe took the time to give an in-depth code review to each and every group. The extra hours he dedicated to providing this feedback proved invaluable to the students. The experience of a code review and suggestion of better time management led to a marked improvement in the quality of future work.<br/><br/>It was a pleasure working with Joe and I highly recommend him for any managerial engineering role."
+    },
+    {
+      "name": "James Larkin",
+      "title": "Full Stack Web Developer",
+      "date": "June 26, 2017",
+      "relationship": "James reported directly to Joseph",
+      "img": "https://media.licdn.com/mpr/mpr/shrinknp_100_100/AAEAAQAAAAAAAAusAAAAJDc0YzI3MzY3LTJhYzctNDgzOC04YWRjLWMzMmU4NGQyOWQ5YQ.jpg",
+      "body": "Joe is super-efficient and encouraging as an instructor. I had the opportunity to take a course Joe was teaching as part of the program at Rutgers Coding Bootcamp. He was always willing to answer any questions and was able to quickly debug any issues students had while coding.<br/><br/>It was clear to me that Joe was extremely knowledgeable about JavaScript and coding in general but he was always able to find a way to share that knowledge and explain topics so everyone in class could understand. He really has a knack for disarming difficult concepts even to those of us who were seeing JavaScript for the first time.<br/><br/>I was continually impressed by his ability to keep the entire class going by providing a light and motivating atmosphere. Joe’s sense of humor had the class laughing even as we struggled through the difficult course material. I really enjoyed being in the great classroom environment that Joe created and I think that he would do great at any position that required him to lead and motivate a team!"
+    },
+    {
+      "name": "Ben Ratner",
+      "title": "Javascript Developer at StudioLabs, LLC",
+      "date": "May 31, 2017",
+      "relationship": "Ben reported directly to Joseph",
+      "img": "https://media.licdn.com/mpr/mpr/shrinknp_100_100/AAEAAQAAAAAAAAzCAAAAJGQ0NWVhMzNlLWMwNWYtNGMwZi1iZjQ0LWVhMDhlYmRiYTkyNg.jpg",
+      "body": "My internship at Marvel was by far the most positive and rewarding work experiences I’ve ever had, and much of that was due to Joe taking on the role of my mentor. When I started at Marvel, Joe led me through the projects I would be working on and the technologies the team used, and I was able to start writing real code quickly. It is through his guidance that I learned so much during my time there.<br/><br/>In addition to being an excellent teacher and mentor, Joe is an incredibly skilled developer. I spent eight months working alongside him and I was routinely astounded at the quality of his code, even while he was managing multiple projects and his other corporate responsibilities. He and I worked most closely on a rewrite of an internal company tool, where a traditional jQuery page was converted into modern ES6 ReactJS. The result was one of the company’s most functional tools with a great user experience across the board.<br/><br/>Joe approaches his work and his colleagues with an open mind and a sense of humor. These qualities set him apart and make him not only a technical asset, but an asset to the company culture at large. His unique blend of mentorship and coding skill makes him a great fit for any team looking for developers."
+    }
+  ],
+  "education": [
+    {
+      "name": "State University of New York at Binghamton",
+      "title": "Bachelors of Science - Computer Science <small>Minor in General Engineering </small>",
+      "date": "August 2007 – May 2011",
+      "img": "https://media.licdn.com/mpr/mpr/shrinknp_100_100/AAEAAQAAAAAAAAJ4AAAAJGY4ODY4YjgwLTk5N2MtNDNhZC04YWViLWUwYTI5NTkyZmMyZg.png",
+      "description": "• Theta Tau Professional Engineering Fraternity [President] • Snocats Skiing/Snowboarding Club • Racquetball Club • Tennis Club",
+      "imgArr": [
+        "http://az616578.vo.msecnd.net/files/2017/02/26/6362373673602705401797046446_1280_profile.jpg",
+        "http://www.interkal.com/wp-content/uploads/2015/01/Binghamton4_1606x906.jpg",
+        "http://media.advance.net/newyorkupstatecom_national_desk_blog/photo/2016/08/24/suny-binghamton-university-4c06049fab09a429.jpg",
+        "https://www.binghamton.edu/admissions/img/hi-res/visit.jpg",
+        "https://www.binghamton.edu/blog/uploads/20160521_SOMComm065_jk.jpg",
+        "http://www.fjgaylor.com/BU-06.JPG",
+        "https://upload.wikimedia.org/wikipedia/en/4/47/Binghamton_University_clock_tower.jpg"
+      ]
+    },
+    {
+      "name": "Staten Island Technical High School",
+      "title": "High School Diploma - National Honors Society",
+      "date": "August 2004 – June 2007",
+      "img": "../src/assets/sitech.png",
+      "description": "• Football Team • Yearbook Committee • Annual Student-Directed Play • Tennis Team ",
+      "imgArr": [
+        "http://img.thedailybeast.com/image/upload/v1492197231/galleries/2014/08/27/25-best-high-schools-in-the-northeast/3_Staten_Island_bfx9va.bmp",
+        "https://i.ytimg.com/vi/hHdQgPsauGM/maxresdefault.jpg",
+        "https://ny.chalkbeat.org/wp-content/uploads/2009/09/_device-memory_home_user_pictures_img00054.jpg",
+        "http://media.silive.com/latest_news/photo/staten-island-tech-graduation-4a0aa4eb34940200.jpg",
+        "https://i.ytimg.com/vi/1zZJ8bwNTxg/maxresdefault.jpg",
+        "https://s3.amazonaws.com/bandlogos.ussba.trigonroad.com/41B94274-B7EF-82EE-EF9E3F150A0FBCD7.jpg"
+      ]
+    }
+  ],
+  "bio": [
+    {
+      "name": "Childhood",
+      "location": "Staten Island, NY",
+      "date": "November 1989 - September 2004",
+      "icon": "child_friendly",
+      "descriptionArr": [
+        "Born: November 19, 1989",
+        "Went to Elementary School",
+        "Wanted to be Batman",
+        "Had unhealthy obsession with legos",
+        "Played many baseball, hockey, tennis, etc.",
+        "Learned to play the trombone",
+        "Had tonsils removed",
+        "Ate lots of candy"
+      ]
+    },
+    {
+      "name": "Teen Years",
+      "location": "Staten Island, NY",
+      "date": "September 2004 - August 2007",
+      "icon": "face",
+      "descriptionArr": [
+        "Attended Staten Island Technical High School",
+        "Made lifelong friends",
+        "Played football, tennis, and acted in school play",
+        "Had first jobs / Wrote for the local newspaper",
+        "Fell in love with engineering",
+        "Still wanted to be Batman"
+      ]
+    },
+    {
+      "name": "College Years @ SUNY Binghamton",
+      "location": "Binghamton, NY",
+      "date": "August 2007 - May 2011",
+      "icon": "school",
+      "descriptionArr": [
+        "Attended the State University of New York at Binghamton",
+        "Had tumultuous but ultimately rewarding relationship with engineering",
+        "Made more lifelong friends",
+        "Played racquetball, logged many hours on the ski slopes",
+        "Became involved with Greek Life on Campus",
+        "Elected President of Theta Tau Professional Engineering Fraternity",
+        "Gave up dream of being Batman"
+      ]
+    },
+    {
+      "name": "Professional Career",
+      "location": "New York, NY",
+      "date": "May 2011 - Present",
+      "icon": "local_taxi",
+      "descriptionArr": [
+        "Became full stack developer",
+        "Lived in Murray Hill, then Upper East Side",
+        "Switch from racquetball to paddleball [$$$!]",
+        "Became obsessed with food truck culture, created corresponding blog",
+        "Started new Lord of the Rings-style quest for smarthome perfection. Barely made it out of the Shire.",
+        "Proclaimed undying love for javascript",
+        "New on-brand dream: Become Iron Man"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "joe-portfolio-server",
+  "version": "0.1.0",
+  "description": "",
+  "main": "server.js",
+  "engines": {
+    "node": "6.11.1"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test.js"
+  },
+  "author": "joe sangiorgio",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2"
+  },
+  "devDependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.15.4",
+    "request": "^2.81.0"
+  }
+}

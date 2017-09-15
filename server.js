@@ -18,7 +18,7 @@ app.use(function (req, res, next) {
 //prefix the api routes
 app.use('/api/v1', router);
 
-router.get('/', function (req, res) {
+app.get('/', function (req, res) {
 	res.send('Welcome to Joe Sangiorgio Porfolio API!')
 });
 router.get('/info/:item', function (req, res) {

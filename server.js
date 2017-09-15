@@ -5,6 +5,22 @@ const cors = require('cors');
 const joeInfo = require('./joeInfo.json');
 const app = express();
 const router = express.Router();
+const swaggerUi = require('swagger-ui-express');
+const swaggerDocument = require('./swagger.json');
+const fs = require('fs');
+const path = require('path');
+// const materialCSS = require('swagger-ui-themes/themes/2.x/theme-material.css');
+// console.log(materialCSS);
+
+var showExplorer = false;
+var options = {};
+var customCss = '#header { display: cool }';
+
+fs.readFile("public/theme-material.css", "utf8", function(err, data) {
+	let cssFile = data;
+	app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(swaggerDocument, showExplorer, options, cssFile));
+	app.use('/', swaggerUi.serve, swaggerUi.setup(swaggerDocument, showExplorer, options, cssFile));
+});
 
 app.set('port', (process.env.PORT || 3000));
 app.use(cors());
@@ -18,9 +34,11 @@ app.use(function (req, res, next) {
 //prefix the api routes
 app.use('/api/v1', router);
 
-app.get('/', function (req, res) {
-	res.send('Welcome to Joe Sangiorgio Porfolio API!')
-});
+// app.get('/', function (req, res) {
+// 	res.send('Welcome to Joe Sangiorgio Porfolio API!')
+// });
+
+
 router.get('/info/:item', function (req, res) {
 	const {item} = req.params;
 	res.json(joeInfo[item])

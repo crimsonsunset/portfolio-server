@@ -7,7 +7,7 @@
     "node": "6.11.1"
   },
   "scripts": {
-    "start": "node server.js",
+    "start": "forever -w server.js",
     "test": "node test.js"
   },
   "author": "joe sangiorgio",
@@ -20,5 +20,7 @@
     "swagger-ui-express": "^2.0.7",
     "swagger-ui-themes": "^3.0.0"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "forever": "^0.15.3"
+  }
 }

@@ -4,18 +4,21 @@
       "company": "Marvel Entertainment",
       "title": "Web Interface Developer",
       "timeFrame": "Jun 2015 - Present",
+      "logo": "marvel",
       "description": "• Head of Front End development for custom Content Management System built from scratch on React/Redux • Spearheaded development on Marvel’s first React project which utilized highly structured components for optimal reusability • Responsible for creating a structured intern program that taught fundamentals of web development, and introduced assorted ongoing projects • Managed interns and mentored them through code review sessions in order to assure that they produced quality work • Created thorough documentation for on-boarding processes, all React projects, and within each codebase • Primary stakeholder in supporting and developing the internal digital comic authoring tool, built on Angular • Designed/developed core components of read.marvel.com, Marvel Unlimited's web interface, written in Backbone • Built assorted different static and dynamic pages for the Marvel.com website, utilizing jQuery, Backbone, and other custom-built internal libraries"
     },
     {
       "company": "Rutgers University",
       "title": "Full Stack Web Development Instructor",
       "timeFrame": "Feb 2017 - Present",
+      "logo": "rutgers",
       "description": "• Taught a six-month long intensive full stack bootcamp to students with no prior coding experience • Lesson plans covered a multitude of javascript-centric topics which spanned the entire stack • Topics included: HTML5, CSS, Javascript, jQuery, Git, Node, Express, MySQL, MongoDB, React, Computer Science, Deployment, and more • Provided ongoing assistance to students as they progressed through the course, both remotely and inside the classroom • Served as a mentor and senior developer to students, course correcting and explaining concepts as they learned • Rewrote the entire React portion of the curriculum, switching from deprecated ES5 syntax to more future-friendly ES6 code Contributed to a nationwide shared lesson plan by submitting merge requests to shared repository"
     },
     {
       "company": "ScrollMotion",
       "title": "Front End Developer",
       "timeFrame": "June 2012 - Jun 2015",
+      "logo": "scrollmotion",
       "description": "• Built highly interactive iPad applications from scratch for a variety of enterprise customers • Utilized high-level JavaScript to marry complex backend structures with pixel-perfect front end design • Spearheaded development that brought fully functional charting solution to the platform, allowing the company to reach new customers and adding value and depth to the product • Worked with assorted APIs to incorporate external data and advanced functionality into apps • Developed a suite of python scripts to help workflow and reduce latency in the build process"
     }
   ],
@@ -23,26 +26,31 @@
     {
       "title": "Custom Content Management System for Marvel Cinematic Universe",
       "company": "Marvel Entertainment",
+      "logo": "marvel",
       "description": "• From-scratch React project, allowed for autosaving and utilized Redux-Form to track changes from within the view • Architected project in a way that allowed for maximum extensibility for future development, drastically reducing development time in future phases • Wrote 25+ custom configurable components to properly model complex data structures stored in graph database • Implemented complex state management utilizing asynchronous Redux actions and reducers • Took full advantage of ES6/ES7 syntax, embracing component classes, spread operators, arrow functions, etc. • Extended several open source component libraries, adapting existing structures to meet the requirements laid out by product stakeholders"
     },
     {
       "title": "Internal Tool: Code Generating/ Administrative Tagging System",
       "company": "Marvel Entertainment",
+      "logo": "marvel",
       "description": "• Marvel's first React project, allows employees to create comic promo codes, administer website ad tags, etc. • Shepherded project through three drastically different phases ( jQuery to ES5-style ReactJS, to ES6 [class based] ReactJS) • Created configuration-based architecture, which allows developers to add new pages and forms with simple JSON structures • Learned Webpack to provide deeper understanding into build complex chain processes (plugins, dev-server with proxy, loaders) • Utilized React-Router to provide consistent user-facing routing across the application • Implemented Block Element Modifier (BEM) Sass styling throughout all views and components"
     },
     {
       "title": "Marvel Insider Program Stylistic Overhaul",
       "company": "Marvel Entertainment",
+      "logo": "marvel",
       "description": "• Interfaced with third party vendor to implement user-facing points economy that allowed users redeem points for prizes • Primarily tasked with drastic re-skinning of vendor's unstyled embedded dashboard widgets • Could only style widgets utilizing plain CSS and pseudo selectors (content locked in iframe) • Drastic creativity was necessary to match designs to locked HTML structure in embedded widgets"
     },
     {
       "title": "www.RateThatTruck.com",
       "company": "Personal",
+      "logo": "rtt",
       "description": "• Turned personal passion into a prominent food truck blog that brings ratings and reviews to food enthusiasts • Version 1.0 was built using JavaScript, and PHP, heavily customizing a Wordpress theme • Utilized Wordpress, JavaScript, and PHP to create a cohesive site that is up to modern web standards• Version 2.0 added authentication, user interaction components, and was built from scratch on MERN stack • Utilizes headless Wordpress API to maintain blog functionality and conform to standard RESTful practices • Learned sketch to create wireframes for redesign, followed self-contained agile methodology to implement changes"
     },
     {
       "title": "JoeSangiorgio.com",
       "company": "Personal",
+      "logo": "js",
       "description": "• Portfolio site built from scratch utilizing VueJS • Aggregates all professional/personal information and serves and entry point for hiring managers • Driven by publicly available API hosted on Google Cloud Engine • Uses many VueJS addon libraries, such as Vuetify for UI components, and vue-router for native browser routing"
     }
   ],

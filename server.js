@@ -7,8 +7,8 @@ const app = express();
 const router = express.Router();
 const swaggerUi = require('swagger-ui-express');
 const swaggerDocument = require('./swagger.json');
-const fs = require('fs');
-const path = require('path');
+// const fs = require('fs');
+// const path = require('path');
 // const materialCSS = require('swagger-ui-themes/themes/2.x/theme-material.css');
 // console.log(materialCSS);
 
@@ -16,11 +16,14 @@ var showExplorer = false;
 var options = {};
 var customCss = '#header { display: cool }';
 
-fs.readFile("public/theme-material.css", "utf8", function(err, data) {
-	let cssFile = data;
-	app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(swaggerDocument, showExplorer, options, cssFile));
-	app.use('/', swaggerUi.serve, swaggerUi.setup(swaggerDocument, showExplorer, options, cssFile));
-});
+let setup = swaggerUi.setup(swaggerDocument, showExplorer, options);
+let serve = swaggerUi.serve;
+
+app.use('/api/v1/', serve, setup);
+app.use('/api/v1/api-docs', serve, setup);
+app.use('/api-docs', serve, setup);
+app.use('/', serve, setup);
+
 
 app.set('port', (process.env.PORT || 3000));
 app.use(cors());

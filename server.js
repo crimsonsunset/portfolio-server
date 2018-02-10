@@ -18,8 +18,13 @@ var customCss = '#header { display: cool }';
 
 fs.readFile("public/theme-material.css", "utf8", function(err, data) {
 	let cssFile = data;
-	app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(swaggerDocument, showExplorer, options, cssFile));
-	app.use('/', swaggerUi.serve, swaggerUi.setup(swaggerDocument, showExplorer, options, cssFile));
+	let setup = swaggerUi.setup(swaggerDocument, showExplorer, options);
+	let serve = swaggerUi.serve;
+
+	app.use('/api/v1/', serve, setup);
+	app.use('/api/v1/api-docs', serve, setup);
+	app.use('/api-docs', serve, setup);
+	app.use('/', serve, setup);
 });
 
 app.set('port', (process.env.PORT || 3000));

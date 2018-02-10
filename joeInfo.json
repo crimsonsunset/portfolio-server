@@ -51,15 +51,16 @@
     "HTML",
     "CSS",
     "ReactJS",
+    "Node.js",
     "jQuery",
     "AngularJS",
     "Vue.js",
-    "Node.js",
     "Express.js",
+    "Webpack",
+    "Testing",
     "MongoDB",
     "Git",
     "JSON",
-    "Webpack",
     "Backbone.js",
     "GruntJS",
     "Gulp.js",
@@ -94,7 +95,7 @@
       "title": "Full Stack Developer",
       "date": "August 16, 2017",
       "relationship": " Hima reported directly to Joseph",
-      "img": "https://media.licdn.com/mpr/mpr/shrinknp_100_100/AAEAAQAAAAAAAAqmAAAAJDA3MjhlZDI2LTMzNWQtNDFmMy1iODYwLTJmY2MzZTZjZTUyOQ.jpg",
+      "img": "../src/assets/pics/hima.jpg",
       "body": "I had the opportunity to attend the Full Stack Development course at Rutgers under Joe’s tutelage. As an instructor, Joe was simply stellar, his knowledge level of all of the front and back end technologies covered were top class. <br/><br/> A Bootcamp, as I understand now, is extremely labor intensive and can be very frustrating. From Day-1 Joe made sure that we as students understood the basics of each technology and prompted us to ask questions to improve our understanding of the topic covered. I, being a back end coder for four years had trouble initially with a few front end topics, Joe made sure he was available at all times to answer any questions and mentor and guide me to become a full stack developer.<br/><br/>Being a TA now for the same course, I understand the difficulties of teaching an intensive boot camp course. For such a course, the effort has to come from the top, the level of effort Joe put in as an instructor inspired a lot of us to grind through. All throughout the course, he would listen patiently to our questions and not just answer us, but try to guide us step by step to reach the answer. He empathized with students when complex topics were taught and provided us with all the required resources which allowed us to be successful. Joe has a great sense of humor, which helped a lot during frustrating times, and I greatly admire Joe’s ability to command a room and get people on board with understanding complex topics.<br/><br/> To me Joe is a great mentor, guide and teacher, I considered myself extremely lucky that I was guided by Joe towards my journey to be a Full Stack Developer. Any employer would be lucky to have an employee like Joe and any student would be blessed to have a tutor like him. To quote Albert Einstein, “It is the supreme art of the teacher to awaken joy in creative expression and knowledge”, and Joe succeeded in that. Thanks Again Joe, wish you all the success in your future endeavors."
     },
     {
@@ -102,7 +103,7 @@
       "title": "Full Stack Web Developer/Experienced Manager",
       "date": "August 3, 2017",
       "relationship": "Dave reported directly to Joseph",
-      "img": "https://media.licdn.com/mpr/mpr/shrinknp_100_100/AAEAAQAAAAAAAAyXAAAAJDk4NTlmODQ2LTk5YTgtNGMwOS1iMzA2LTUxOWM5ZGNlZGM1ZQ.jpg",
+      "img": "../src/assets/pics/dave.jpg",
       "body": "Quite simply, Joe is an all-star instructor with a natural ability to lead. I was fortunate to be a student of his at Rutgers University’s Coding Bootcamp. Thanks to his enthusiasm and dedication, I was able to quickly comprehend complex JavaScript topics. Speaking as an experienced adjunct college professor, it was inspiring for me to witness Joe in action. He constantly found ways to capture the classroom’s attention with ease. Moreover, I respect that his presentation of the material went beyond textbook learning: he is an accomplished developer, and was eager to bring his own invaluable, practical experience to instruction in the classroom.<br/><br/>In addition to being an excellent teacher, Joe has a natural ability to lead and mentor teams. I witnessed this firsthand as he effortlessly guided class teams in building full stack web applications. His direction and advice was vital to my success in this endeavor, from application conception to polished minimum viable product. He inspired and pushed my team in directions which enabled us to build the most thorough and modern application that we could.<br/><br/> I thoroughly enjoyed being in class with Joe and I’m confident that he would bring the same energy to any position that requires him to lead and motivate a team. I enthusiastically endorse him and recommend you strongly consider him."
     },
     {
@@ -110,7 +111,7 @@
       "title": "Full Stack Web Developer",
       "date": "August 2, 2017",
       "relationship": "Diaeddin reported directly to Joseph",
-      "img": "https://media.licdn.com/mpr/mpr/shrinknp_100_100/AAEAAQAAAAAAAAZ5AAAAJGM4ZDE5NGU4LTY1MzYtNGFlNS1iYzNhLTg0OGU3YmRiNjExOA.jpg",
+      "img": "../src/assets/pics/dean.jpg",
       "body": "I had the honor of being Joseph’s student while attending the Rutgers Coding Bootcamp. I think I have never experienced a teacher that is quite as patient and friendly as Joseph. His ability to breakdown difficult concepts and deliver them with enthusiasm is unparalleled.<br/><br/>Joseph has the rare ability to empathize with the learner. As a student, being exposed to new technologies and abstract ideas can become overwhelming. By being able to put himself in their shoes, he can guide them through the journey and anticipate problems and pitfalls that may arise. His method was not only to present information but create a path of discovery enabling the student to fully grasp the concepts being discussed.<br/><br/>His dedication to his craft is remarkable. Aside from possessing a deep knowledge of the technologies, he is able to deliver the material with enthusiasm while constantly improving his delivery methods by assessing the progress and engagement of the class. By delivering content with humor and providing times to reflect upon the journey, he was able to keep the classes’ morale high and focus on point.<br/><br/>At no time during the course did I feel that I was on my own. Whether having trouble with a new library or framework, or simply looking for help with my resume or career advice, Joseph was consistently available to answer questions or provide guidance. <br/><br/>To say that having Joseph as a teacher was a privilege would be an understatement. I entered RCB with basic knowledge of web technologies and have since been skilled as a confident web developer. His dedication, empathy and enthusiasm for his craft and students are evident in everything he does. I credit him in being instrumental in my journey in web development. I cannot recommend someone more highly."
     },
     {
@@ -118,7 +119,7 @@
       "title": "Web Developer at UA Builders Group",
       "date": "July 14, 2017",
       "relationship": "Craig reported directly to Joseph",
-      "img": "https://media.licdn.com/mpr/mpr/shrinknp_100_100/AAEAAQAAAAAAAAVdAAAAJDVhZjBlMThkLTc5NDQtNGEwMS04ZGE3LWIxZDZlMjI4ZWQ2OQ.jpg",
+      "img": "../src/assets/pics/craig.jpg",
       "body": "Joe is an excellent instructor at the Rutgers Coding Bootcamp. His ability to take complex topics and convey them in an easy to consume, and concise manner is very impressive.<br/><br/>Joe has an experienced understanding of Web Development, which was apparent through the myriad of topics we covered in class. His ability and passion is clearly apparent to his colleagues and enrollees. He is able to motivate and challenge our students, and tends to tailor his approach to meet the needs of each one of them. He has the ability to mentor and guide young developers to the right path without providing them with the answer.<br/><br/>He took extra steps outside the classroom to ensure the best experience for the person enrolled in class. When the course culminated with React and Redux, Joe took it upon himself to actually rewrite the curriculum so that the students could have the most up to date educational experience.<br/><br/>After projects, Joe took the time to give an in-depth code review to each and every group. The extra hours he dedicated to providing this feedback proved invaluable to the students. The experience of a code review and suggestion of better time management led to a marked improvement in the quality of future work.<br/><br/>It was a pleasure working with Joe and I highly recommend him for any managerial engineering role."
     },
     {
@@ -126,7 +127,7 @@
       "title": "Full Stack Web Developer",
       "date": "June 26, 2017",
       "relationship": "James reported directly to Joseph",
-      "img": "https://media.licdn.com/mpr/mpr/shrinknp_100_100/AAEAAQAAAAAAAAusAAAAJDc0YzI3MzY3LTJhYzctNDgzOC04YWRjLWMzMmU4NGQyOWQ5YQ.jpg",
+      "img": "../src/assets/pics/james.jpg",
       "body": "Joe is super-efficient and encouraging as an instructor. I had the opportunity to take a course Joe was teaching as part of the program at Rutgers Coding Bootcamp. He was always willing to answer any questions and was able to quickly debug any issues students had while coding.<br/><br/>It was clear to me that Joe was extremely knowledgeable about JavaScript and coding in general but he was always able to find a way to share that knowledge and explain topics so everyone in class could understand. He really has a knack for disarming difficult concepts even to those of us who were seeing JavaScript for the first time.<br/><br/>I was continually impressed by his ability to keep the entire class going by providing a light and motivating atmosphere. Joe’s sense of humor had the class laughing even as we struggled through the difficult course material. I really enjoyed being in the great classroom environment that Joe created and I think that he would do great at any position that required him to lead and motivate a team!"
     },
     {
@@ -134,7 +135,7 @@
       "title": "Javascript Developer at StudioLabs, LLC",
       "date": "May 31, 2017",
       "relationship": "Ben reported directly to Joseph",
-      "img": "https://media.licdn.com/mpr/mpr/shrinknp_100_100/AAEAAQAAAAAAAAzCAAAAJGQ0NWVhMzNlLWMwNWYtNGMwZi1iZjQ0LWVhMDhlYmRiYTkyNg.jpg",
+      "img": "../src/assets/pics/ben.jpg",
       "body": "My internship at Marvel was by far the most positive and rewarding work experiences I’ve ever had, and much of that was due to Joe taking on the role of my mentor. When I started at Marvel, Joe led me through the projects I would be working on and the technologies the team used, and I was able to start writing real code quickly. It is through his guidance that I learned so much during my time there.<br/><br/>In addition to being an excellent teacher and mentor, Joe is an incredibly skilled developer. I spent eight months working alongside him and I was routinely astounded at the quality of his code, even while he was managing multiple projects and his other corporate responsibilities. He and I worked most closely on a rewrite of an internal company tool, where a traditional jQuery page was converted into modern ES6 ReactJS. The result was one of the company’s most functional tools with a great user experience across the board.<br/><br/>Joe approaches his work and his colleagues with an open mind and a sense of humor. These qualities set him apart and make him not only a technical asset, but an asset to the company culture at large. His unique blend of mentorship and coding skill makes him a great fit for any team looking for developers."
     }
   ],

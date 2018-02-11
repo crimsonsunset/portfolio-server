@@ -2,17 +2,24 @@
   "experience": [
     {
       "company": "Marvel Entertainment",
-      "title": "Web Interface Developer",
-      "timeFrame": "Jun 2015 - Present",
+      "title": "Senior Front End Engineer",
+      "timeFrame": "Jan 2018 - Present",
       "logo": "marvel",
-      "description": "• Head of Front End development for custom Content Management System built from scratch on React/Redux • Spearheaded development on Marvel’s first React project which utilized highly structured components for optimal reusability • Responsible for creating a structured intern program that taught fundamentals of web development, and introduced assorted ongoing projects • Managed interns and mentored them through code review sessions in order to assure that they produced quality work • Created thorough documentation for on-boarding processes, all React projects, and within each codebase • Primary stakeholder in supporting and developing the internal digital comic authoring tool, built on Angular • Designed/developed core components of read.marvel.com, Marvel Unlimited's web interface, written in Backbone • Built assorted different static and dynamic pages for the Marvel.com website, utilizing jQuery, Backbone, and other custom-built internal libraries"
+      "description": "• Lead developer for Marvel.com sitewide overhaul, responsible for creating a future facing ES6/7 React codebase • Head of Front End Development for custom Content Management System built on React/Redux • Utilized ESHint, StyleLint, Husky, and JSDoc to enforce company-wide front end coding standards for all contributors • Implemented test-driven development by creating a full test suite for Marvel.com components using jest and enzyme • Managed interns through fundamentals of web development by familiarizing them with Marvel.com codebase and introducing them to other projects within the company • Mentored interns through code review sessions in order to ensure that they produced quality work"
+    },
+    {
+      "company": "Marvel Entertainment",
+      "title": "Web Interface Developer",
+      "timeFrame": "Jun 2015 - Jan 2018",
+      "logo": "marvel",
+      "description": "• Lead development on Marvel’s first React project, utilizing ES6 syntax, Webpack build chain, Block Element Modifier Sass styling, and highly structured components for optimal reusability.   • Primary stakeholder in supporting and developing the internal digital comic authoring tool, built on Angular • Designed/developed core components of read.marvel.com, the Marvel Unlimited web interface, written in Backbone • Created thorough documentation within each codebase and on Confluence for general stakeholders to view • Built assorted different static and dynamic pages for the Marvel.com website, utilizing jQuery, Backbone, and other proprietary internal JavaScript libraries"
     },
     {
       "company": "Rutgers University",
       "title": "Full Stack Web Development Instructor",
       "timeFrame": "Feb 2017 - Present",
       "logo": "rutgers",
-      "description": "• Taught a six-month long intensive full stack bootcamp to students with no prior coding experience • Lesson plans covered a multitude of javascript-centric topics which spanned the entire stack • Topics included: HTML5, CSS, Javascript, jQuery, Git, Node, Express, MySQL, MongoDB, React, Computer Science, Deployment, and more • Provided ongoing assistance to students as they progressed through the course, both remotely and inside the classroom • Served as a mentor and senior developer to students, course correcting and explaining concepts as they learned • Rewrote the entire React portion of the curriculum, switching from deprecated ES5 syntax to more future-friendly ES6 code Contributed to a nationwide shared lesson plan by submitting merge requests to shared repository"
+      "description": "• Taught a six-month long intensive full stack bootcamp to students with no prior coding experience • Lesson plans covered a multitude of JavaScript topics which spanned the entire stack • Topics included: HTML5, CSS, Javascript, jQuery, Git, Node, Express, MySQL, MongoDB, React, Computer Science, Deployment, and more • Provided ongoing assistance to students as they progressed through the course, both remotely and inside the classroom • Served as a mentor and senior developer to students, course correcting and explaining concepts as they learned • Rewrote the entire React portion of the curriculum, switching from deprecated ES5 syntax to more future-friendly ES6 • Contributed to a nationwide shared lesson plan by submitting merge requests to shared repository"
     },
     {
       "company": "ScrollMotion",
@@ -24,22 +31,34 @@
   ],
   "projects": [
     {
+      "title": "Marvel.com Site Overhaul",
+      "company": "Marvel Entertainment",
+      "logo": "marvel",
+      "description": "• Worked on a team of 15 developers on a drastic ground-up revamp of Marvel.com  • All aspects of the website were completely rebuilt: Drupal CMS, PHP Backend, Node.js Layer, React/Redux Application  • Project had an extremely short timeline, which necessitated strong collaboration from all members of a large team  • Defined extensible JSON structures for component API by working closely with back end developers  • Responsible for building complex multi-variant components that relied heavily on user interaction  • Contributed to elaborate webpack scripting setup which allowed the application to run in several different environments  • Improved SEO by utilizing Next.js to implement server-side rendering from the node layer of the stack  • Collaborated with a team that spanned several disciplines and countries to create a polished finished product  • Made extensive use of Atlassian project software (Jira, Confluence) to document, track, and coordinate"
+    },
+    {
       "title": "Custom Content Management System for Marvel Cinematic Universe",
       "company": "Marvel Entertainment",
       "logo": "marvel",
-      "description": "• From-scratch React project, allowed for autosaving and utilized Redux-Form to track changes from within the view • Architected project in a way that allowed for maximum extensibility for future development, drastically reducing development time in future phases • Wrote 25+ custom configurable components to properly model complex data structures stored in graph database • Implemented complex state management utilizing asynchronous Redux actions and reducers • Took full advantage of ES6/ES7 syntax, embracing component classes, spread operators, arrow functions, etc. • Extended several open source component libraries, adapting existing structures to meet the requirements laid out by product stakeholders"
+      "description": "• React project built from scratch, featured autosaving and utilized Redux-Form to track changes within a given view • Created project architecture that allowed for maximum extensibility and drastically reduced future development time • Wrote 25+ configurable components to properly model and display complex data structures stored in graph database • Implemented application level state management utilizing asynchronous Redux actions and reducers • Took full advantage of ES6/ES7 syntax, embracing component classes, spread operators, arrow functions, etc. • Incorporated several open source component libraries, adapting their existing codebase to meet the requirements laid out by project stakeholders"
     },
     {
       "title": "Internal Tool: Code Generating/ Administrative Tagging System",
       "company": "Marvel Entertainment",
       "logo": "marvel",
-      "description": "• Marvel's first React project, allows employees to create comic promo codes, administer website ad tags, etc. • Shepherded project through three drastically different phases ( jQuery to ES5-style ReactJS, to ES6 [class based] ReactJS) • Created configuration-based architecture, which allows developers to add new pages and forms with simple JSON structures • Learned Webpack to provide deeper understanding into build complex chain processes (plugins, dev-server with proxy, loaders) • Utilized React-Router to provide consistent user-facing routing across the application • Implemented Block Element Modifier (BEM) Sass styling throughout all views and components"
+      "description": "• Marvel's first React project, allowed employees to create comic promo codes, administer website ad tags, etc  • Shepherded project through three drastically different phases ( jQuery to ES5 React to ES6 React)  • Created configuration-based architecture, which allows developers to add new pages and forms with simple JSON  • Learned Webpack to provide deeper understanding into build complex build chain processes (plugins, proxies, loaders)  • Utilized React-Router (v2-4) to provide consistent user-facing routing across the application  • Implemented Block Element Modifier (BEM) Sass styling throughout all views and components"
     },
     {
       "title": "Marvel Insider Program Stylistic Overhaul",
       "company": "Marvel Entertainment",
       "logo": "marvel",
-      "description": "• Interfaced with third party vendor to implement user-facing points economy that allowed users redeem points for prizes • Primarily tasked with drastic re-skinning of vendor's unstyled embedded dashboard widgets • Could only style widgets utilizing plain CSS and pseudo selectors (content locked in iframe) • Drastic creativity was necessary to match designs to locked HTML structure in embedded widgets"
+      "description": "• Interfaced with third party vendor, implemented sitewide points economy that allowed users to redeem points for prizes  • Primarily tasked with drastic re-skinning of vendor's unstyled embedded dashboard widgets   • Could only style widgets utilizing plain CSS and pseudo selectors because content was locked in iframe  • Drastic creativity was necessary to match designs to static HTML structure in embedded widgets"
+    },
+    {
+      "title": "Home Automation Platform",
+      "company": "Personal",
+      "logo": "homeassistant",
+      "description": "• Configured a heavily customized version of Home Assistant, an python-based open source home automation platform  • Utilized Jinja2 templates to create actions, scripts and automations that link together several IoT devices  • Wrote YAML configuration to enable communication across entities to one centralized Raspberry Pi3 server  • Made server frontend globally accessible by enabling port forwarding and adding SSL certificate from LetsEncrypt.org  • Created several different home-grown utility scripts and frontend widgets to further tailor and extend the platform  • Contributed to Home Assistant community, posted aforementioned utility scripts for other members to use"
     },
     {
       "title": "www.RateThatTruck.com",
@@ -51,7 +70,7 @@
       "title": "JoeSangiorgio.com",
       "company": "Personal",
       "logo": "js",
-      "description": "• Portfolio site built from scratch utilizing VueJS • Aggregates all professional/personal information and serves and entry point for hiring managers • Driven by publicly available API hosted on Google Cloud Engine • Uses many VueJS addon libraries, such as Vuetify for UI components, and vue-router for native browser routing"
+      "description": "• Data driven dashboard style portfolio site built on Vue; complete with user preference menu and sitewide tour prompt • Aggregates all professional/personal information and serves and entry point for hiring managers • Driven by publicly available API: written in Node.js, documented with Swagger, and hosted on Heroku • Uses many Vue addon libraries, such as Vuetify for UI components, and vue-router for native browser routing"
     }
   ],
   "skills": [
